@@ -31,7 +31,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SineiderDev.SineiderDev)
 [![Github](https://img.shields.io/github/followers/SineiderDev?label=Follow&style=social)](https://github.com/SineiderDev)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SineiderDev)](https://github.com/SineiderDev/github-readme-stats)
+[![SineiderDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SineiderDev)](https://github.com/SineiderDev/github-readme-stats)
 
 
 
