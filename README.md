@@ -26,8 +26,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SineiderDev&show_icons=true&theme=tokyonight)
 
 ## Most used languages in my repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SineiderDev&layout=compact)](https://github.com/SineiderDev/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SineiderDev&repo=github-readme-stats)](https://github.com/SineiderDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SineiderDev&layout=compact&langs_count=10)](https://github.com/SineiderDev/github-readme-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SineiderDev.SineiderDev)
