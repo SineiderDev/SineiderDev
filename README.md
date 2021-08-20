@@ -23,10 +23,10 @@
 </p>
 
 ## GitHub profile statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SineiderDev&show_icons=true&theme=tokyonight)
 
 ## Most used languages in my repositories:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SineiderDev&layout=compact)](https://github.com/SineiderDev/github-readme-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SineiderDev.SineiderDev)
