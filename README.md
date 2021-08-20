@@ -27,11 +27,11 @@
 
 ## Most used languages in my repositories:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SineiderDev&layout=compact)](https://github.com/SineiderDev/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SineiderDev&repo=github-readme-stats)](https://github.com/SineiderDev/github-readme-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SineiderDev.SineiderDev)
 [![Github](https://img.shields.io/github/followers/SineiderDev?label=Follow&style=social)](https://github.com/SineiderDev)
-[![SineiderDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SineiderDev)](https://github.com/SineiderDev/github-readme-stats)
 
 
 
