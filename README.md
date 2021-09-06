@@ -33,6 +33,7 @@
 [![Github](https://img.shields.io/github/followers/SineiderDev?label=Follow&style=social)](https://github.com/SineiderDev)
 
 📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
