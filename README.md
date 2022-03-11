@@ -33,9 +33,6 @@
 [![Github](https://img.shields.io/github/followers/SineiderDev?label=Follow&style=social)](https://github.com/SineiderDev)
 
 
-
-
-
  
 <!--
 **SineiderDev/SineiderDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
