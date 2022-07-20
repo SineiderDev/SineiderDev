@@ -5,7 +5,6 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/felipe-sineider-97a72aa6/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sineider@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
