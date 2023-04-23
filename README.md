@@ -2,7 +2,7 @@
 
 ## ✉️ Find me on:
 
-
+ 
 <p align="center">
  <a href="https://www.linkedin.com/in/felipe-sineider-97a72aa6/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
